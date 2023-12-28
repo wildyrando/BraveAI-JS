@@ -1,0 +1,24 @@
+{
+    "name": "BraveAI-JS",
+    "version": "1.0.0",
+    "description": "BraveAI-JS is a unofficial library written in Javascript",
+    "main": "index.js",
+    "author": "Wildy Sheverando [ hai@wildyrando.com ]",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wildyrando/BraveAI-JS"
+    },
+    "bugs": {
+        "url": "https://github.com/wildyrando/BraveAI-JS/issues"
+    },
+    "dependencies": {
+        "axios": "^1.6.3"
+    },
+    "keywords": [
+        "BraveAI",
+        "BraveLeo",
+        "LeoAI",
+        "Brave"
+    ]
+}

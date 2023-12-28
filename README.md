@@ -1,4 +1,5 @@
 # BraveAI-JS
-Reverse engineered API of Brave Leo AI.
+BraveAI-JS is a unofficial library written in Javascript
+
 
 
