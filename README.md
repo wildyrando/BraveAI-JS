@@ -2,6 +2,11 @@
 BraveAI-JS is a unofficial library written in Javascript
 
 # Usage
+```bash
+npm install braveai-js
+```
+
+# Code Examples
 ```javascript
 const braveai_js = require('braveai-js');
 const braveAI = braveai_js.init('your api keys');
@@ -13,3 +18,6 @@ const braveAI = braveai_js.init('your api keys');
   console.log(result);
 })();
 ```
+
+# License
+This Project Licensed under the MIT License
